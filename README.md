@@ -27,6 +27,7 @@ Creator: B. German Central Research Establishment Home Office Forensic Science S
 Donor: Vina Spiehler, Ph.D., DABFT Diagnostic Products Corporation (213) 776-0180 (ext 3014)      
 
 **Inspiration**  
-Data exploration of this dataset reveals two important characteristics : 1) The variables are highly corelated with each other including the response variables: So which kind of ML algorithm is most suitable for this dataset Random Forest , KNN or other? Also since dataset is too small is there any chance of applying PCA or it should be completely avoided?  
+Data exploration of this dataset reveals two important characteristics :   
+1) The variables are highly corelated with each other including the response variables: So which kind of ML algorithm is most suitable for this dataset Random Forest , KNN or other? Also since dataset is too small is there any chance of applying PCA or it should be completely avoided?  
 
 2) Highly Skewed Data: Is scaling sufficient or are there any other techniques which should be applied to normalize data? Like BOX-COX Power transformation?  
